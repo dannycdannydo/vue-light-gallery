@@ -41,7 +41,7 @@
                   class="light-gallery__text"
                   :style="`background: ${background}; color: ${interfaceColor}`"
                 >
-                  {{ image.title }}
+                  fuck
                 </div>
                 <img
                   :ref="`lg-img-${imageIndex}`"
